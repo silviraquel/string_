@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author silviane
+ *
+ */
+module string {
+}
